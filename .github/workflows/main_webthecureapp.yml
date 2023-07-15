@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'webTheCureApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8670E746A0FE46BA9A8D5952BCB08C4B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6CBBD54A1968424794E3A3930F98E4FC }}
           package: '*.jar'
